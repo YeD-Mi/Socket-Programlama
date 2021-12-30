@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ChatSocketsClient/1.0.0": {
+        "dependencies": {
+          "ChatSocketsServer": "1.0.0"
+        },
+        "runtime": {
+          "ChatSocketsClient.dll": {}
+        }
+      },
+      "ChatSocketsServer/1.0.0": {
+        "runtime": {
+          "ChatSocketsServer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ChatSocketsClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ChatSocketsServer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

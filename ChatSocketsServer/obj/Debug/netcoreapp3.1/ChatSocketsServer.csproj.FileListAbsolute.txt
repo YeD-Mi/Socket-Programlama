@@ -1,0 +1,77 @@
+C:\Users\Nicolas-PC\source\repos\ChatSocketsServer\ChatSocketsServer\bin\Debug\netcoreapp3.1\ChatSocketsServer.exe
+C:\Users\Nicolas-PC\source\repos\ChatSocketsServer\ChatSocketsServer\bin\Debug\netcoreapp3.1\ChatSocketsServer.deps.json
+C:\Users\Nicolas-PC\source\repos\ChatSocketsServer\ChatSocketsServer\bin\Debug\netcoreapp3.1\ChatSocketsServer.runtimeconfig.json
+C:\Users\Nicolas-PC\source\repos\ChatSocketsServer\ChatSocketsServer\bin\Debug\netcoreapp3.1\ChatSocketsServer.runtimeconfig.dev.json
+C:\Users\Nicolas-PC\source\repos\ChatSocketsServer\ChatSocketsServer\bin\Debug\netcoreapp3.1\ChatSocketsServer.dll
+C:\Users\Nicolas-PC\source\repos\ChatSocketsServer\ChatSocketsServer\bin\Debug\netcoreapp3.1\ChatSocketsServer.pdb
+C:\Users\Nicolas-PC\source\repos\ChatSocketsServer\ChatSocketsServer\obj\Debug\netcoreapp3.1\ChatSocketsServer.AssemblyInfoInputs.cache
+C:\Users\Nicolas-PC\source\repos\ChatSocketsServer\ChatSocketsServer\obj\Debug\netcoreapp3.1\ChatSocketsServer.AssemblyInfo.cs
+C:\Users\Nicolas-PC\source\repos\ChatSocketsServer\ChatSocketsServer\obj\Debug\netcoreapp3.1\ChatSocketsServer.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas-PC\source\repos\ChatSocketsServer\ChatSocketsServer\obj\Debug\netcoreapp3.1\ChatSocketsServer.dll
+C:\Users\Nicolas-PC\source\repos\ChatSocketsServer\ChatSocketsServer\obj\Debug\netcoreapp3.1\ChatSocketsServer.pdb
+C:\Users\Nicolas-PC\source\repos\ChatSocketsServer\ChatSocketsServer\obj\Debug\netcoreapp3.1\ChatSocketsServer.genruntimeconfig.cache
+C:\Users\Nicolas-PC\source\repos\ChatSocketsServer\ChatSocketsServer\obj\Debug\netcoreapp3.1\ChatSocketsServer.csprojAssemblyReference.cache
+D:\Projetos\ChatSockets\ChatSocketsServer\bin\Debug\netcoreapp3.1\ChatSocketsServer.exe
+D:\Projetos\ChatSockets\ChatSocketsServer\bin\Debug\netcoreapp3.1\ChatSocketsServer.deps.json
+D:\Projetos\ChatSockets\ChatSocketsServer\bin\Debug\netcoreapp3.1\ChatSocketsServer.runtimeconfig.json
+D:\Projetos\ChatSockets\ChatSocketsServer\bin\Debug\netcoreapp3.1\ChatSocketsServer.runtimeconfig.dev.json
+D:\Projetos\ChatSockets\ChatSocketsServer\bin\Debug\netcoreapp3.1\ChatSocketsServer.dll
+D:\Projetos\ChatSockets\ChatSocketsServer\bin\Debug\netcoreapp3.1\ChatSocketsServer.pdb
+D:\Projetos\ChatSockets\ChatSocketsServer\obj\Debug\netcoreapp3.1\ChatSocketsServer.AssemblyInfoInputs.cache
+D:\Projetos\ChatSockets\ChatSocketsServer\obj\Debug\netcoreapp3.1\ChatSocketsServer.AssemblyInfo.cs
+D:\Projetos\ChatSockets\ChatSocketsServer\obj\Debug\netcoreapp3.1\ChatSocketsServer.csproj.CoreCompileInputs.cache
+D:\Projetos\ChatSockets\ChatSocketsServer\obj\Debug\netcoreapp3.1\ChatSocketsServer.dll
+D:\Projetos\ChatSockets\ChatSocketsServer\obj\Debug\netcoreapp3.1\ChatSocketsServer.pdb
+D:\Projetos\ChatSockets\ChatSocketsServer\obj\Debug\netcoreapp3.1\ChatSocketsServer.genruntimeconfig.cache
+C:\Users\NSD\Desktop\Denenecek\ChatSockets-main\ChatSockets-main\ChatSocketsServer\bin\Debug\netcoreapp3.1\ChatSocketsServer.exe
+C:\Users\NSD\Desktop\Denenecek\ChatSockets-main\ChatSockets-main\ChatSocketsServer\bin\Debug\netcoreapp3.1\ChatSocketsServer.deps.json
+C:\Users\NSD\Desktop\Denenecek\ChatSockets-main\ChatSockets-main\ChatSocketsServer\bin\Debug\netcoreapp3.1\ChatSocketsServer.runtimeconfig.json
+C:\Users\NSD\Desktop\Denenecek\ChatSockets-main\ChatSockets-main\ChatSocketsServer\bin\Debug\netcoreapp3.1\ChatSocketsServer.runtimeconfig.dev.json
+C:\Users\NSD\Desktop\Denenecek\ChatSockets-main\ChatSockets-main\ChatSocketsServer\bin\Debug\netcoreapp3.1\ChatSocketsServer.dll
+C:\Users\NSD\Desktop\Denenecek\ChatSockets-main\ChatSockets-main\ChatSocketsServer\bin\Debug\netcoreapp3.1\ChatSocketsServer.pdb
+C:\Users\NSD\Desktop\Denenecek\ChatSockets-main\ChatSockets-main\ChatSocketsServer\obj\Debug\netcoreapp3.1\ChatSocketsServer.csprojAssemblyReference.cache
+C:\Users\NSD\Desktop\Denenecek\ChatSockets-main\ChatSockets-main\ChatSocketsServer\obj\Debug\netcoreapp3.1\ChatSocketsServer.AssemblyInfoInputs.cache
+C:\Users\NSD\Desktop\Denenecek\ChatSockets-main\ChatSockets-main\ChatSocketsServer\obj\Debug\netcoreapp3.1\ChatSocketsServer.AssemblyInfo.cs
+C:\Users\NSD\Desktop\Denenecek\ChatSockets-main\ChatSockets-main\ChatSocketsServer\obj\Debug\netcoreapp3.1\ChatSocketsServer.csproj.CoreCompileInputs.cache
+C:\Users\NSD\Desktop\Denenecek\ChatSockets-main\ChatSockets-main\ChatSocketsServer\obj\Debug\netcoreapp3.1\ChatSocketsServer.dll
+C:\Users\NSD\Desktop\Denenecek\ChatSockets-main\ChatSockets-main\ChatSocketsServer\obj\Debug\netcoreapp3.1\ChatSocketsServer.pdb
+C:\Users\NSD\Desktop\Denenecek\ChatSockets-main\ChatSockets-main\ChatSocketsServer\obj\Debug\netcoreapp3.1\ChatSocketsServer.genruntimeconfig.cache
+C:\Users\NSD\Desktop\ChatSockets-main\ChatSockets-main\ChatSocketsServer\bin\Debug\netcoreapp3.1\ChatSocketsServer.exe
+C:\Users\NSD\Desktop\ChatSockets-main\ChatSockets-main\ChatSocketsServer\obj\Debug\netcoreapp3.1\ChatSocketsServer.csprojAssemblyReference.cache
+C:\Users\NSD\Desktop\ChatSockets-main\ChatSockets-main\ChatSocketsServer\obj\Debug\netcoreapp3.1\ChatSocketsServer.AssemblyInfoInputs.cache
+C:\Users\NSD\Desktop\ChatSockets-main\ChatSockets-main\ChatSocketsServer\obj\Debug\netcoreapp3.1\ChatSocketsServer.AssemblyInfo.cs
+C:\Users\NSD\Desktop\ChatSockets-main\ChatSockets-main\ChatSocketsServer\obj\Debug\netcoreapp3.1\ChatSocketsServer.csproj.CoreCompileInputs.cache
+C:\Users\NSD\Desktop\ChatSockets-main\ChatSockets-main\ChatSocketsServer\obj\Debug\netcoreapp3.1\ChatSocketsServer.dll
+C:\Users\NSD\Desktop\ChatSockets-main\ChatSockets-main\ChatSocketsServer\obj\Debug\netcoreapp3.1\ChatSocketsServer.pdb
+C:\Users\NSD\Desktop\ChatSockets-main\ChatSockets-main\ChatSocketsServer\bin\Debug\netcoreapp3.1\ChatSocketsServer.deps.json
+C:\Users\NSD\Desktop\ChatSockets-main\ChatSockets-main\ChatSocketsServer\bin\Debug\netcoreapp3.1\ChatSocketsServer.runtimeconfig.json
+C:\Users\NSD\Desktop\ChatSockets-main\ChatSockets-main\ChatSocketsServer\bin\Debug\netcoreapp3.1\ChatSocketsServer.runtimeconfig.dev.json
+C:\Users\NSD\Desktop\ChatSockets-main\ChatSockets-main\ChatSocketsServer\bin\Debug\netcoreapp3.1\ChatSocketsServer.dll
+C:\Users\NSD\Desktop\ChatSockets-main\ChatSockets-main\ChatSocketsServer\bin\Debug\netcoreapp3.1\ChatSocketsServer.pdb
+C:\Users\NSD\Desktop\ChatSockets-main\ChatSockets-main\ChatSocketsServer\obj\Debug\netcoreapp3.1\ChatSocketsServer.genruntimeconfig.cache
+C:\Users\NSD\Desktop\ChatSockets-main (2)\ChatSockets-main\ChatSocketsServer\bin\Debug\netcoreapp3.1\ChatSocketsServer.exe
+C:\Users\NSD\Desktop\ChatSockets-main (2)\ChatSockets-main\ChatSocketsServer\bin\Debug\netcoreapp3.1\ChatSocketsServer.deps.json
+C:\Users\NSD\Desktop\ChatSockets-main (2)\ChatSockets-main\ChatSocketsServer\bin\Debug\netcoreapp3.1\ChatSocketsServer.runtimeconfig.json
+C:\Users\NSD\Desktop\ChatSockets-main (2)\ChatSockets-main\ChatSocketsServer\bin\Debug\netcoreapp3.1\ChatSocketsServer.runtimeconfig.dev.json
+C:\Users\NSD\Desktop\ChatSockets-main (2)\ChatSockets-main\ChatSocketsServer\bin\Debug\netcoreapp3.1\ChatSocketsServer.dll
+C:\Users\NSD\Desktop\ChatSockets-main (2)\ChatSockets-main\ChatSocketsServer\bin\Debug\netcoreapp3.1\ChatSocketsServer.pdb
+C:\Users\NSD\Desktop\ChatSockets-main (2)\ChatSockets-main\ChatSocketsServer\obj\Debug\netcoreapp3.1\ChatSocketsServer.csprojAssemblyReference.cache
+C:\Users\NSD\Desktop\ChatSockets-main (2)\ChatSockets-main\ChatSocketsServer\obj\Debug\netcoreapp3.1\ChatSocketsServer.AssemblyInfoInputs.cache
+C:\Users\NSD\Desktop\ChatSockets-main (2)\ChatSockets-main\ChatSocketsServer\obj\Debug\netcoreapp3.1\ChatSocketsServer.AssemblyInfo.cs
+C:\Users\NSD\Desktop\ChatSockets-main (2)\ChatSockets-main\ChatSocketsServer\obj\Debug\netcoreapp3.1\ChatSocketsServer.csproj.CoreCompileInputs.cache
+C:\Users\NSD\Desktop\ChatSockets-main (2)\ChatSockets-main\ChatSocketsServer\obj\Debug\netcoreapp3.1\ChatSocketsServer.dll
+C:\Users\NSD\Desktop\ChatSockets-main (2)\ChatSockets-main\ChatSocketsServer\obj\Debug\netcoreapp3.1\ChatSocketsServer.pdb
+C:\Users\NSD\Desktop\ChatSockets-main (2)\ChatSockets-main\ChatSocketsServer\obj\Debug\netcoreapp3.1\ChatSocketsServer.genruntimeconfig.cache
+C:\Users\NSD\Desktop\ChatSockets\ChatSockets\ChatSocketsServer\bin\Debug\netcoreapp3.1\ChatSocketsServer.exe
+C:\Users\NSD\Desktop\ChatSockets\ChatSockets\ChatSocketsServer\bin\Debug\netcoreapp3.1\ChatSocketsServer.deps.json
+C:\Users\NSD\Desktop\ChatSockets\ChatSockets\ChatSocketsServer\bin\Debug\netcoreapp3.1\ChatSocketsServer.runtimeconfig.json
+C:\Users\NSD\Desktop\ChatSockets\ChatSockets\ChatSocketsServer\bin\Debug\netcoreapp3.1\ChatSocketsServer.runtimeconfig.dev.json
+C:\Users\NSD\Desktop\ChatSockets\ChatSockets\ChatSocketsServer\bin\Debug\netcoreapp3.1\ChatSocketsServer.dll
+C:\Users\NSD\Desktop\ChatSockets\ChatSockets\ChatSocketsServer\bin\Debug\netcoreapp3.1\ChatSocketsServer.pdb
+C:\Users\NSD\Desktop\ChatSockets\ChatSockets\ChatSocketsServer\obj\Debug\netcoreapp3.1\ChatSocketsServer.csprojAssemblyReference.cache
+C:\Users\NSD\Desktop\ChatSockets\ChatSockets\ChatSocketsServer\obj\Debug\netcoreapp3.1\ChatSocketsServer.AssemblyInfoInputs.cache
+C:\Users\NSD\Desktop\ChatSockets\ChatSockets\ChatSocketsServer\obj\Debug\netcoreapp3.1\ChatSocketsServer.AssemblyInfo.cs
+C:\Users\NSD\Desktop\ChatSockets\ChatSockets\ChatSocketsServer\obj\Debug\netcoreapp3.1\ChatSocketsServer.csproj.CoreCompileInputs.cache
+C:\Users\NSD\Desktop\ChatSockets\ChatSockets\ChatSocketsServer\obj\Debug\netcoreapp3.1\ChatSocketsServer.dll
+C:\Users\NSD\Desktop\ChatSockets\ChatSockets\ChatSocketsServer\obj\Debug\netcoreapp3.1\ChatSocketsServer.pdb
+C:\Users\NSD\Desktop\ChatSockets\ChatSockets\ChatSocketsServer\obj\Debug\netcoreapp3.1\ChatSocketsServer.genruntimeconfig.cache

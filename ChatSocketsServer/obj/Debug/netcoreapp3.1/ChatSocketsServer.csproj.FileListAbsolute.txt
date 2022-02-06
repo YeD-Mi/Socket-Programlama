@@ -75,3 +75,17 @@ C:\Users\NSD\Desktop\ChatSockets\ChatSockets\ChatSocketsServer\obj\Debug\netcore
 C:\Users\NSD\Desktop\ChatSockets\ChatSockets\ChatSocketsServer\obj\Debug\netcoreapp3.1\ChatSocketsServer.dll
 C:\Users\NSD\Desktop\ChatSockets\ChatSockets\ChatSocketsServer\obj\Debug\netcoreapp3.1\ChatSocketsServer.pdb
 C:\Users\NSD\Desktop\ChatSockets\ChatSockets\ChatSocketsServer\obj\Debug\netcoreapp3.1\ChatSocketsServer.genruntimeconfig.cache
+C:\Users\182805015\Desktop\Socket-Programlama-main\ChatSocketsServer\bin\Debug\netcoreapp3.1\ChatSocketsServer.exe
+C:\Users\182805015\Desktop\Socket-Programlama-main\ChatSocketsServer\bin\Debug\netcoreapp3.1\ChatSocketsServer.deps.json
+C:\Users\182805015\Desktop\Socket-Programlama-main\ChatSocketsServer\bin\Debug\netcoreapp3.1\ChatSocketsServer.runtimeconfig.json
+C:\Users\182805015\Desktop\Socket-Programlama-main\ChatSocketsServer\bin\Debug\netcoreapp3.1\ChatSocketsServer.runtimeconfig.dev.json
+C:\Users\182805015\Desktop\Socket-Programlama-main\ChatSocketsServer\bin\Debug\netcoreapp3.1\ChatSocketsServer.dll
+C:\Users\182805015\Desktop\Socket-Programlama-main\ChatSocketsServer\bin\Debug\netcoreapp3.1\ChatSocketsServer.pdb
+C:\Users\182805015\Desktop\Socket-Programlama-main\ChatSocketsServer\obj\Debug\netcoreapp3.1\ChatSocketsServer.csproj.AssemblyReference.cache
+C:\Users\182805015\Desktop\Socket-Programlama-main\ChatSocketsServer\obj\Debug\netcoreapp3.1\ChatSocketsServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\182805015\Desktop\Socket-Programlama-main\ChatSocketsServer\obj\Debug\netcoreapp3.1\ChatSocketsServer.AssemblyInfoInputs.cache
+C:\Users\182805015\Desktop\Socket-Programlama-main\ChatSocketsServer\obj\Debug\netcoreapp3.1\ChatSocketsServer.AssemblyInfo.cs
+C:\Users\182805015\Desktop\Socket-Programlama-main\ChatSocketsServer\obj\Debug\netcoreapp3.1\ChatSocketsServer.csproj.CoreCompileInputs.cache
+C:\Users\182805015\Desktop\Socket-Programlama-main\ChatSocketsServer\obj\Debug\netcoreapp3.1\ChatSocketsServer.dll
+C:\Users\182805015\Desktop\Socket-Programlama-main\ChatSocketsServer\obj\Debug\netcoreapp3.1\ChatSocketsServer.pdb
+C:\Users\182805015\Desktop\Socket-Programlama-main\ChatSocketsServer\obj\Debug\netcoreapp3.1\ChatSocketsServer.genruntimeconfig.cache

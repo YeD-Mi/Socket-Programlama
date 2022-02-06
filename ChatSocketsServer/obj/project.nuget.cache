@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "eDaXnE9DqajzypbMypPYmZERlYSKJBersKMPDg/XI6LzSyZh3VN9AQgEZST9sSyoDbPkmiMn7ykuYXZ78svevg==",
+  "dgSpecHash": "HHBHJg0Tp8/zMaAIHhSdfU4srrl8mG2IoP3xRCHdUVsKc8PcsFUa5c1cZxLM6EhIzYCQ7tWoprStfcqfuy4Lag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\NSD\\Desktop\\ChatSockets\\ChatSockets\\ChatSocketsServer\\ChatSocketsServer.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\182805015\\Desktop\\Socket-Programlama-main\\ChatSocketsServer\\ChatSocketsServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\182805015\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\182805015\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\182805015\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\182805015\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

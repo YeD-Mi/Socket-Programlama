@@ -1,0 +1,7 @@
+C:\Users\182805015\Desktop\Socket-Programlama-main\ChatSocketsClient\obj\Debug\netcoreapp3.1\ChatSocketsClient.csproj.AssemblyReference.cache
+C:\Users\182805015\Desktop\Socket-Programlama-main\ChatSocketsClient\obj\Debug\netcoreapp3.1\ChatSocketsClient.Form1.resources
+C:\Users\182805015\Desktop\Socket-Programlama-main\ChatSocketsClient\obj\Debug\netcoreapp3.1\ChatSocketsClient.csproj.GenerateResource.cache
+C:\Users\182805015\Desktop\Socket-Programlama-main\ChatSocketsClient\obj\Debug\netcoreapp3.1\ChatSocketsClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\182805015\Desktop\Socket-Programlama-main\ChatSocketsClient\obj\Debug\netcoreapp3.1\ChatSocketsClient.AssemblyInfoInputs.cache
+C:\Users\182805015\Desktop\Socket-Programlama-main\ChatSocketsClient\obj\Debug\netcoreapp3.1\ChatSocketsClient.AssemblyInfo.cs
+C:\Users\182805015\Desktop\Socket-Programlama-main\ChatSocketsClient\obj\Debug\netcoreapp3.1\ChatSocketsClient.csproj.CoreCompileInputs.cache

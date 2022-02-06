@@ -93,8 +93,8 @@ namespace ChatSocketsClient
                 }
                 else if (sha256RB.Checked == true)
                 {
-                    SHA_256 sha = new SHA_256();
-                    SifreliTxt.Text = sha.encrypt(MesajTxt.Text);
+                    SHA_256 sha = new SHA_256(MesajTxt.Text);
+                    SifreliTxt.Text = sha.encrypt();
                 }
                 else if (spn16RB.Checked == false && spn16RB.Checked == false) { MessageBox.Show("Sifreleme Yontemi Secmelisin...", "Hata-4", MessageBoxButtons.OK, MessageBoxIcon.Exclamation); }
 
@@ -128,8 +128,8 @@ namespace ChatSocketsClient
 
         private void GonderBtn_Click(object sender, EventArgs e)
         {
-            SHA_256 sha = new SHA_256();
-            string gidensha256=sha.encrypt(SmsTxt.Text);
+            SHA_256 sha = new SHA_256(SmsTxt.Text);
+            string gidensha256=sha.encrypt();
             SendToServer(MsgCode.GlobalChat, gidensha256);
             MessageBox.Show("Alici bu mesaji goremez, bilgin olsun...","Bilgilendirme");
             SmsTxt.Text = " ";

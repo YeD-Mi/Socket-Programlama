@@ -9,13 +9,10 @@ Hazırlayanlar:
 
 ![alt text](https://mryed.com/wp-content/uploads/2022/02/sha256-encryption.png) <br>
 SHA-256 Şifreleme <br>
-
 ![alt text](https://mryed.com/wp-content/uploads/2022/02/spn16-encryption.png) <br>
 SPN-16 Şifreleme <br>
-
 ![alt text](https://mryed.com/wp-content/uploads/2022/02/SPN16-decode.png) <br>
 SPN-16 Decode <br>
-
 ![alt text](https://mryed.com/wp-content/uploads/2022/02/mesajlasma-uygulamasi.png) <br>
 Socket Programlama <br>
 
